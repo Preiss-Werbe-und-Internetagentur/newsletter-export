@@ -1,6 +1,6 @@
 # Newsletter Export Bundle
 
-Dieses Bundle erweitert Contao CMS um eine Export-Funktion für Newsletter-Abonnenten – z.B. als Excel-Datei (XLSX).
+Dieses Bundle erweitert Contao CMS um eine Export-Funktion für Newsletter-Abonnenten – z.B. als CSV.
 
 ## Voraussetzungen
 
