@@ -1,0 +1,26 @@
+{
+  "name": "pwi/newsletter-export-bundle",
+  "type": "contao-bundle",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexander Naumov",
+      "homepage": "https://alexandernaumov.de",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PWI\\ContaoNewsletterExportBundle\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.2",
+    "contao/core-bundle": "5.3.*",
+    "contao/newsletter-bundle": "5.3.*",
+    "phpoffice/phpspreadsheet": "^4.4"
+  },
+  "extra": {
+    "contao-manager-plugin": "PWI\\ContaoNewsletterExportBundle\\ContaoManager\\Plugin"
+  }
+}
