@@ -4,6 +4,11 @@
   "license": "proprietary",
   "authors": [
     {
+      "name": "Preiss Werbeagentur",
+      "homepage": "https://preiss-at-work.de/",
+      "role": "Developer"
+    },
+    {
       "name": "Alexander Naumov",
       "homepage": "https://alexandernaumov.de",
       "role": "Developer"
